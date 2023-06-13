@@ -10,8 +10,8 @@ Terdapat tiga varian dari FocalBoard :
 ### Instalasi Untuk Windows
 Terdapat dua cara instalasi Focalboard untuk Windows :
 - Yang pertama *download* melalui [*Microsoft Store*](https://www.microsoft.com/store/productId/9NLN2T0SX9VF) klik *Get in Store app* untuk melakukan instalasi.
-![alt text](https://github.com/GagasTaruna/FocalBoard/blob/a51f4e386b448321d029a122822720d77fb1bd03/FocalBoards/fb01.png)
-- Yang kedua *download* `focalboard-win.zip` dari [*latest release*](https://github.com/mattermost/focalboard/releases), ![alt text](https://github.com/GagasTaruna/FocalBoard/blob/a51f4e386b448321d029a122822720d77fb1bd03/FocalBoards/fb02.png) kemudian *unpack* menggunakan Winrar, lalu jalankan `Focalboard.exe`.
+![alt text](https://github.com/KhairilAmin/Focalboard/blob/main/Focalboard/Focalboard1.png)
+- Yang kedua *download* `focalboard-win.zip` dari [*latest release*](https://github.com/mattermost/focalboard/releases), ![alt text](https://github.com/KhairilAmin/Focalboard/blob/main/Focalboard/Focalboard2.png) kemudian *unpack* menggunakan Winrar, lalu jalankan `Focalboard.exe`.
 ![alt text](https://github.com/GagasTaruna/FocalBoard/blob/a51f4e386b448321d029a122822720d77fb1bd03/FocalBoards/fb03.png)
 
 ### Membuat Proyek Pertama
